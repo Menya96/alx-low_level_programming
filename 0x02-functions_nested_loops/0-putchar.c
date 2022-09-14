@@ -3,7 +3,7 @@
 /**
 * main - prints putchar
 *Description: prints
-*Returns: 0
+*Return: Always 0
 */
 int main(void)
 {
