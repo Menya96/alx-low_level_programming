@@ -2,7 +2,8 @@
 
 /*
 * main - prints putchar
-*Returns: 0
+*Description: prints_putchar using putchar prototype
+*Return: Always 0 
 */
 int main(void)
 {
