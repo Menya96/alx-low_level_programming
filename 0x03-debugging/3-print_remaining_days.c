@@ -30,7 +30,7 @@ printf("invalid date: %02d/%02d/%04d\n", month, day - 31, year);
 else
 {
 printf("Day of the year: %4d\n", day);
-printf("Remaining days: %4\n", 365 - day);
+printf("Remaining days: %4d\n", 365 - day);
 }
 }
 }
