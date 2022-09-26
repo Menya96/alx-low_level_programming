@@ -3,20 +3,23 @@
 /**
  *main -> assign a random number to the variable n each time it is executed
  *and print the last digit of the number stored in the variable n
- *Return: Always 0 
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
-char ch;
-for (ch = 'a'; ch <= 'z'; ch++)
+int ch;
+for (ch = 48; ch <= 57; ch++)
 {
-if (ch != 'q' && ch != 'e')
-{
+
 putchar(ch);
+if (ch != 57)
+{
+putchar(44);
+putchar(32);
 }
 }
 
-putchar(10);
+putchar(10); /* this is an ascii code for new line*/
 
 return (0);
 }
