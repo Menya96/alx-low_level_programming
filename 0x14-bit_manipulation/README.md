@@ -1,1 +1,0 @@
-Directory for bit manipulation in C
