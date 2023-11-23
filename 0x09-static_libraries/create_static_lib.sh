@@ -17,3 +17,4 @@ rm *.o
 
 #display a message to confirm the creation of the lib
 echo "Static library $LIB_NAME created succesfully."
+
