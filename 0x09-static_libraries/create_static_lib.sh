@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #create a variabe to stoe the name of the library
 LIB_NAME="liball.a"
