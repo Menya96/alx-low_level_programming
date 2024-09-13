@@ -1,1 +1,1 @@
-Solutions to singly linked list project
+ALX projects on `singly linked lists`
