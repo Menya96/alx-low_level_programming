@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * _strlen_recursion - return length of a string
@@ -17,4 +17,3 @@ int _strlen_recursion(char *s)
 
 	return (count);
 }
-
